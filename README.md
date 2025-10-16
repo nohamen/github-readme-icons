@@ -11,10 +11,10 @@
   <a href="https://github.com/nohamen/github-readme-icons/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/nohamen/github-readme-icons" />
   </a>
-  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+  <a href="https://codecov.io/gh/nohamen/github-readme-icons">
     <img alt="Tests Coverage" src="https://codecov.io/gh/nohamen/github-readme-icons/branch/master/graph/badge.svg" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+  <a href="https://github.com/nohamen/github-readme-icons/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
