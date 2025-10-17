@@ -1,4 +1,4 @@
-# Wondered how to use The Icons In The README.md 
+## Wondered how to use The Icons In The README.md 
 <h1> well heres how! <h1>
 
   ```html
